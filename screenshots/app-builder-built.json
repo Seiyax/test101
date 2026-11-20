@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SpotifyMan",
+      "hasCanvas": false,
+      "bodyTextLen": 580,
+      "bodyTextHash": "f374c12757c8e94e0597ec3f4170fb8a0d7711ba2cc9592bbd886e4ba4cb426d",
+      "bodyTextPrefix": "SpotifyMan Search Text Style Layout Looks CARD LAYOUT Classic Sq",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SpotifyMan",
+      "hasCanvas": false,
+      "bodyTextLen": 580,
+      "bodyTextHash": "f374c12757c8e94e0597ec3f4170fb8a0d7711ba2cc9592bbd886e4ba4cb426d",
+      "bodyTextPrefix": "SpotifyMan Search Text Style Layout Looks CARD LAYOUT Classic Sq",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
